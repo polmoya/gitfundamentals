@@ -3,4 +3,4 @@ Hello there
 
 Updating readme with new info
 
-mofidy
+mofid
